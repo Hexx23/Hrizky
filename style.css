@@ -27,7 +27,6 @@ a {
   font-size: 14px;
   background-color: #f8fae5;
   padding: 10px;
-  border: 2px solid red;
 }
 .navigation {
   display: flex;
@@ -35,7 +34,6 @@ a {
   align-items: center;
   width: 40%;
   height: 100%;
-  border: 2px solid blue;
   display: none;
   font-size: 18px;
 }
